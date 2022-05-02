@@ -1,0 +1,5 @@
+azul="\033[0;34m"
+
+rm ./arquivos/qr-code/auth_info_multi.json
+
+echo "${azul}Qr code apagado com sucesso digite node index.js para gerar um novo."

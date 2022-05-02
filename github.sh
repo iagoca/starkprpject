@@ -1,0 +1,1 @@
+git init && git add . && git config --global user.email "sousathiagocandido@gmail.com" && git config --global user.name "iagoca" && git commit -m "Fist commit"
